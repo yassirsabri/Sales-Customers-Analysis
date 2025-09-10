@@ -34,7 +34,4 @@ This project showcases my data analytics skills through interactive dashboards (
 - `notebooks/` containing Jupyter notebooks (exploration, regression, presentation)
 - `outputs/` containing model artifacts, metrics, and charts
 
-## 🔮 Next Steps
-- Extend regression to predictive forecasting (time series)
-- Add clustering (KMeans) to segment customers further
-- Build a recommendation model for products
+
