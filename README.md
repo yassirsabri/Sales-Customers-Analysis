@@ -92,6 +92,6 @@ This project analyzes sales transactions, customer data, product details, and re
 
 ### 🐍 Scripts & Notebooks
 - `scripts/regression_analysis.py` → full workflow (data cleaning, modeling, visualization).  
-- `notebooks/Results.ipynb` → storytelling with step-by-step explanation.  
+
 
 ---
