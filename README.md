@@ -3,6 +3,10 @@
 ## 1. Project Overview
 This project analyzes sales transactions, customer data, product details, and regional information to uncover business insights and build predictive models.
 
+![Dashboard Preview](dashboards/screenshots/sales_dashboard.png)
+👉 [Click here to view the Interactive Tableau Dashboard]([https://public.tableau.com/views/YOUR_DASHBOARD_LINK](https://public.tableau.com/app/profile/yassir.sa6805/viz/SalesCustomerDashboards_17575947550970/SalesDashboard))
+
+
 **Objectives:**
 - Identify key drivers of sales and profitability.  
 - Predict future sales using regression models.  
